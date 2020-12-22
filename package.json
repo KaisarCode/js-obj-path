@@ -1,6 +1,6 @@
 {
   "name": "kc-obj-path",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "[js] Get property by path.",
   "main": "index.js",
   "repository": {
